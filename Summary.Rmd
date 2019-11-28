@@ -1,0 +1,27 @@
+---
+title: "Study and Prediction of pollution in Smart cities through machine learning techniques"
+author: "Ditsuhi"
+date: "11/28/2019"
+output: html_document
+---
+
+
+
+
+### Visualization
+There is no any visualised products yet. However, by looking ahead, future product can be describen. As the research topic is focused on air pollution prediction, It can be useful to visualise dynamic changes of air quality index in the city.  Time granularity can be different, including hourly, daily, weekly, depends on the analysis that we will apply.  
+Having information about air quality will induce to make protective measures, it can lead population to apply their daily activities in the places which are less polluted (by escaping high polluted areas).
+
+
+
+### Reproducibility
+
+The data that I will use for my research is air pollution  data of Madrid. The data is provided by General Directorate of Sustainability and Environmental Control of Spain. Mainly, they have started to capture data since 2011. There is table listed with captured elements names, codes, units, abbreviation.  The names of station, the code of each station, the year, month and day of each of establishment of each station.
+Also, to include other data, such as meterological or land use data can help to do more accurate prediction, e.g. wind direction, wind speed, temperature, humidity. etc.
+
+### Science Communication
+I will divide my audience in the following groups:
+1. Scientists focused on air pollution, monitoring changes, estimating, forecasting, but mainly focusing on air pollution aspect
+2.Scientists focused on machine learning technologies, to see how can machine learning  be applied in certain domain, how it handles specific type of data and find out the advantages and disadvantages of machine learning techniques compared with other techniques
+3. Decision makers – the results can guide decision makers to apply certain measurements in order to reduce air quality index
+4. Each citizen in the city – having web or mobile application visualizing changes can help them to organize their daily activities (for example runners can prefer to run in the places where air pollution is less)
