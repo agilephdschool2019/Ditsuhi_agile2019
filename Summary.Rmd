@@ -1,27 +1,46 @@
 ---
-title: "Study and Prediction of pollution in Smart cities through machine learning techniques"
-author: "Ditsuhi"
+title: "AGILE PhD School 2019"
+author: "Ditsuhi Iskandaryan"
 date: "11/28/2019"
 output: html_document
 ---
 
 
 
+### PhD research topic, aim and objective
+
+The thesis, which will be developed within the framework of the PhD, is titled as ‘Study and prediction of pollution in smart cities through machine learning techniques’. It will focus on using the existing air quality data sensors in smart cities, apply machine learning techniques in order to obtain valuable predictions about the aforementioned air quality.
+
+
 
 ### Visualization
-There is no any visualised products yet. However, by looking ahead, future product can be describen. As the research topic is focused on air pollution prediction, It can be useful to visualise dynamic changes of air quality index in the city.  Time granularity can be different, including hourly, daily, weekly, depends on the analysis that we will apply.  
-Having information about air quality will induce to make protective measures, it can lead population to apply their daily activities in the places which are less polluted (by escaping high polluted areas).
+
+After finding proper method or methods to predict air quality, the next step will be to visualize spatial-temporal changes of air quality index in the city.  Time granularity can be different, including hourly, daily, weekly, depends on the result of the analysis that we will obtain.  It will allow user to select a time granularity from the available options. 
 
 
 
 ### Reproducibility
 
-The data that I will use for my research is air pollution  data of Madrid. The data is provided by General Directorate of Sustainability and Environmental Control of Spain. Mainly, they have started to capture data since 2011. There is table listed with captured elements names, codes, units, abbreviation.  The names of station, the code of each station, the year, month and day of each of establishment of each station.
-Also, to include other data, such as meterological or land use data can help to do more accurate prediction, e.g. wind direction, wind speed, temperature, humidity. etc.
+As a case study for my research Madrid is taken. The data of air quality is available on-line by the following link: 
+https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+The data is provided by General Directorate of Sustainability and Environmental Control of Spain. They have started to capture data since 2001. There is additional information describing and interpreting the data.  Apart the archive, that incudes hourly and daily data, it is also available the data captured in real time.
+Additionally, it can be useful for more accurate prediction to include other type of data, such as wind direction, wind speed, temperature, humidity. etc.  
+The scripts and information about software used during analysis will be available at GitHub repository: https://github.com/Ditsuhi
+
+
+
 
 ### Science Communication
+
 I will divide my audience in the following groups:
-1. Scientists focused on air pollution, monitoring changes, estimating, forecasting, but mainly focusing on air pollution aspect
-2.Scientists focused on machine learning technologies, to see how can machine learning  be applied in certain domain, how it handles specific type of data and find out the advantages and disadvantages of machine learning techniques compared with other techniques
-3. Decision makers – the results can guide decision makers to apply certain measurements in order to reduce air quality index
-4. Each citizen in the city – having web or mobile application visualizing changes can help them to organize their daily activities (for example runners can prefer to run in the places where air pollution is less)
+
+1.  Scientists focused on air pollution, monitoring changes, estimating, forecasting, but mainly focusing on air pollution aspect.
+
+2. Scientists focused on machine learning technologies, to see how can machine learning be applied in certain domain, how it handles specific type of data and find out the advantages and disadvantages of the applied techniques compared with each other.
+
+3. Authorities of a city – the results can guide authorities of a city to apply protective measures in order to reduce air quality index.
+
+4. Each citizen in the city – having web or mobile application visualizing air quality prediction can help citizens to organize their daily activities (for example runners can prefer to run in the places where air pollution is less).
+
+
+
