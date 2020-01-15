@@ -40,7 +40,7 @@ I will divide my audience in the following groups:
 
 3. Authorities of a city – the results can guide authorities of a city to apply protective measures in order to reduce air pollution and improve citizens’ health.
 
-4. Each citizen in the city – having web or mobile application visualizing air quality prediction can help citizens to organize their daily activities (for example,  to run, walk or buy flat in the places where air pollution is less).
+4. Each citizen in the city – having web or mobile application visualizing air quality prediction can help citizens to organize their daily activities (for example, run, walk or buy flat in the places where air pollution is less).
 
 
 
