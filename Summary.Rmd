@@ -9,7 +9,7 @@ output: html_document
 
 ### PhD research topic, aim and objective
 
-The thesis, which will be developed within the framework of the PhD, is titled as ‘Study and prediction of pollution in smart cities through machine learning techniques’. It will focus on appling machine learning techniques in order to obtain valuable predictions about air quality, by using the existing air quality data sensors in smart cities.
+The thesis, which will be developed within the framework of the PhD, is titled as ‘Study and prediction of pollution in smart cities through machine learning techniques’. It will focus on appling machine learning techniques in order to obtain valuable predictions about air quality, by using the existing air quality data of the cities.
 
 
 ### Visualization
