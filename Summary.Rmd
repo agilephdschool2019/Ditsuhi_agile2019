@@ -38,7 +38,7 @@ I will divide my audience in the following groups:
 
 2. Scientists focused on machine learning technologies, to see how can machine learning be applied in certain domain, how it handles specific type of data and find out the advantages and disadvantages of the applied techniques compared with each other.
 
-3. Authorities of a city – the results can guide authorities of a city to apply protective measures in order to reduce air quality index.
+3. Authorities of a city – the results can guide authorities of a city to apply protective measures in order to reduce air pollution.
 
 4. Each citizen in the city – having web or mobile application visualizing air quality prediction can help citizens to organize their daily activities (for example runners can prefer to run in the places where air pollution is less).
 
