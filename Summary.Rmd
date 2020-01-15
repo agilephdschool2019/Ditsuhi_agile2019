@@ -12,10 +12,9 @@ output: html_document
 The thesis, which will be developed within the framework of the PhD, is titled as ‘Study and prediction of pollution in smart cities through machine learning techniques’. It will focus on using the existing air quality data sensors in smart cities, apply machine learning techniques in order to obtain valuable predictions about the aforementioned air quality.
 
 
-
 ### Visualization
 
-After finding proper method or methods to predict air quality, the next step will be to visualize spatial-temporal changes of air quality index in the city.  Time granularity can be different, including hourly, daily, weekly, depends on the result of the analysis that we will obtain.  It will allow user to select a time granularity from the available options. 
+After finding proper method or methods to predict air quality, the next step will be to visualize spatial-temporal changes of air quality index in the city for the next seven days.  The product will allow user to select time granularity from the available options. 
 
 
 
@@ -23,9 +22,10 @@ After finding proper method or methods to predict air quality, the next step wil
 
 As a case study for my research Madrid is taken. The data of air quality is available on-line by the following link: 
 https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
-The data is provided by General Directorate of Sustainability and Environmental Control of Spain. They have started to capture data since 2001. There is additional information describing and interpreting the data.  Apart the archive, that incudes hourly and daily data, it is also available the data captured in real time.
-Additionally, it can be useful for more accurate prediction to include other type of data, such as wind direction, wind speed, temperature, humidity. etc.  
+The data is provided by General Directorate of Sustainability and Environmental Control of Spain. They have started to capture data since 2001. There is additional information describing and interpreting the data.  Apart from the archive, that incudes hourly and daily data, it is also available the data captured in real time.
+Additionally, for more accurate prediction it can be useful to include other type of data, such as wind direction, wind speed, temperature, humidity, etc. which will be obtained from AEMET OpenData                 (https://opendata.aemet.es) .  
 The scripts and information about software used during analysis will be available at GitHub repository: https://github.com/Ditsuhi
+
 
 
 
@@ -34,13 +34,14 @@ The scripts and information about software used during analysis will be availabl
 
 I will divide my audience in the following groups:
 
-1.  Scientists focused on air pollution, monitoring changes, estimating, forecasting, but mainly focusing on air pollution aspect.
+1.  Scientists focused on air pollution, monitoring changes, estimating, forecasting, but mainly focusing on air pollution aspect. 
 
-2. Scientists focused on machine learning technologies, to see how can machine learning be applied in certain domain, how it handles specific type of data and find out the advantages and disadvantages of the applied techniques compared with each other.
+2. Scientists focused on machine learning technologies, to see how machine learning can be applied in certain domain, how it handles specific type of data and find out the advantages and disadvantages of the applied techniques by comparing to each other.
 
-3. Authorities of a city – the results can guide authorities of a city to apply protective measures in order to reduce air pollution.
+3. Authorities of a city – the results can guide authorities of a city to apply protective measures in order to reduce air pollution and improve citizens’ health.
 
-4. Each citizen in the city – having web or mobile application visualizing air quality prediction can help citizens to organize their daily activities (for example runners can prefer to run in the places where air pollution is less).
+4. Each citizen in the city – having web or mobile application visualizing air quality prediction can help citizens to organize their daily activities (for example,  to run, walk or buy flat in the places where air pollution is less).
+
 
 
 
