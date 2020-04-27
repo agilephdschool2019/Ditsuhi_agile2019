@@ -12,30 +12,41 @@ output:
 bibliography: samplebib.bib
 ---
 
-### PhD research topic, aim and objective
+# PhD research topic, aim and objective
 
 The thesis, which will be developed within the framework of the PhD, is titled as ‘Study and prediction of pollution in smart cities through machine learning techniques’. It will focus on appling machine learning techniques in order to obtain valuable predictions about air quality, by using the existing air quality data of the cities.
 
-
-### Visualization
+# Visualization
 
 After finding proper method or methods to predict air quality, the next step will be to visualize spatial-temporal changes of air quality index in the city for the next seven days.  The product will allow user to select time granularity from the available options. 
 
-
-
-### Reproducibility
+# Reproducibility
 
 As a case study for my research Madrid is taken. The data of air quality is available on-line by the following link: 
-https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default
+
+\footnotesize
+
+[https://datos.madrid.es/portal/site/egob/](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+[menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+[vgnextoid=](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+[f3c0f7d512273410VgnVCM2000000c205a0aRCRD](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+[&vgnextchannel=](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+[374512b9ace9f310VgnVCM100000171f5a0aRCRD](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+[&vgnextfmt=default](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=f3c0f7d512273410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+
+\normalsize
+
 The data is provided by General Directorate of Sustainability and Environmental Control of Spain. They have started to capture data since 2001. There is additional information describing and interpreting the data.  Apart from the archive, that incudes hourly and daily data, it is also available the data captured in real time.
 Additionally, for more accurate prediction it can be useful to include other type of data, such as wind direction, wind speed, temperature, humidity, etc. which will be obtained from AEMET OpenData (https://opendata.aemet.es).  
 The scripts and information about software used during analysis will be available at GitHub repository: https://github.com/Ditsuhi.
 
-
-
-
-
-### Science Communication
+# Science Communication
 
 I will divide my audience in the following groups:
 
@@ -46,7 +57,3 @@ I will divide my audience in the following groups:
 3. Authorities of a city – the results can guide authorities of a city to apply protective measures in order to reduce air pollution and improve citizens’ health.
 
 4. Each citizen in the city – having web or mobile application visualizing air quality prediction can help citizens to organize their daily activities (for example, run, walk or buy flat in the places where air pollution is less).
-
-
-
-
