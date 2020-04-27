@@ -1,11 +1,16 @@
 ---
-title: "AGILE PhD School 2019"
-author: "Ditsuhi Iskandaryan"
-date: "11/28/2019"
-output: html_document
+title: "Study and prediction of pollution in smart cities through machine learning techniques"
+author:
+  - name: Ditsuhi Iskandaryan
+    affiliation: Jaume I University, Spain
+    email: iskandar@uji.es
+    orcid: 0000-0000-0000-0000
+abstract:
+   The research focuses on applying machine learning techniques in order to obtain valuable predictions about air quality, by using the existing air quality data of the cities.
+output:
+  ceurticles::twocolpceurws_article
+bibliography: samplebib.bib
 ---
-
-
 
 ### PhD research topic, aim and objective
 
